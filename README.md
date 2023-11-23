@@ -14,7 +14,7 @@ Step 8:Calculate the probability of the observed sequence by summing the last ro
 Step 9:Find the most likely sequence of hidden states by selecting the hidden state with the highest probability at each time step based on the alpha matrix.</br>
 
 ##  Program:
-Developed By : **KERSOAN P**
+Developed By : **Pranave B**
 </br>
 Register No. : **212221240040**
 ```py
